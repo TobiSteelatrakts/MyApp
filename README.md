@@ -1,2 +1,2 @@
 # MyApp
-An app i have worked on
+An app for fetching news feed
