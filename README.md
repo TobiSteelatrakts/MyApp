@@ -1,2 +1,2 @@
 # MyApp
-An app for fetching news feeds
+An app for fetching news feeds, please download and unzip ):
