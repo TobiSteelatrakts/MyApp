@@ -1,2 +1,2 @@
 # MyApp
-An app for fetching news feed
+An app for fetching news feeds
